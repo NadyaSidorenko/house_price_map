@@ -9,4 +9,4 @@
 Для просмотра тетрадок используйте следующие ссылки:
 https://nbviewer.org/github.com/NadyaSidorenko/house_price_map/blob/main/map_price_houses_heatmap.ipynb
 
-https://nbviewer.org/github/NadyaSidorenko/house_price_map/blob/main/map_price_houses_map.ipynb
+https://nbviewer.org/github.com/NadyaSidorenko/house_price_map/blob/main/map_price_houses_map.ipynb
