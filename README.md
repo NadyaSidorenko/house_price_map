@@ -7,3 +7,6 @@
 | [Карта, демонстрирующая разделение города на районы по стоимости недвижимости](https://github.com/NadyaSidorenko/house_price_map.git) | В распоряжении имеется датасет, содержащий данные о широте, долготе и цене объекта недвижимости. Целью проекта является демонстрация на карте стоимости объектов недвиимости | *pandas, folium* |
 
 
+![Иллюстрация к проекту №1](https://github.com/NadyaSidorenko/house_price_map/blob/main/карта.jpg)
+
+![Иллюстрация к проекту №2](https://github.com/NadyaSidorenko/house_price_map/blob/main/тепловая_карта.jpg)
