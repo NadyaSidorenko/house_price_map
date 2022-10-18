@@ -2,7 +2,7 @@
  Карта, демонстрирующая разделение города на районы по стоимости недвижимости
 https://github.com/NadyaSidorenko/house_price_map/blob/main/map_price_houses_heatmap.ipynb
 
-https://github.com/NadyaSidorenko/house_price_map/blob/main/map_price_houses_map.ipynb
+https://nbviewer.org/github/NadyaSidorenko/house_price_map/blob/main/map_price_houses-Copy1.ipynb
  
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
